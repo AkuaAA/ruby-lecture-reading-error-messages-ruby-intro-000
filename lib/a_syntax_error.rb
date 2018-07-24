@@ -1,3 +1,3 @@
-x = exit
+x = x
 
 x = 
